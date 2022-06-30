@@ -1,1 +1,1 @@
-# Test-suite-generation-against-TFSMs-for-the-output-race-detection
+# Timed FSM based test derivation for the output race detection
